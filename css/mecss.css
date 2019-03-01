@@ -1,0 +1,14 @@
+body{
+    background:rgba(174, 193, 197, 0.59);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#mainBack{
+    height: 100%;
+    background: rgba(255, 255, 255, 0.83);
+    position:absolute;
+}
